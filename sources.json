@@ -1,0 +1,112 @@
+[
+  {
+    "number": 1,
+    "code": "BS01",
+    "source_fulltext": "https://stelar.edc.org/sites/default/files/2022-12/Toward%20a%20Unifying%20Social%20Cognitive%20Theory%20of%20Career%20and%20Academic%20Interest%2C%20Choice%2C%20and%20Performance%20_1994%20monograph.pdf",
+    "local_mirror": null,
+    "license": null
+  },
+  {
+    "number": 2,
+    "code": "CU03",
+    "source_fulltext": "https://backoffice.biblio.ugent.be/download/8724278/8726931",
+    "local_mirror": null,
+    "license": null
+  },
+  {
+    "number": 3,
+    "code": "CU46",
+    "source_fulltext": "https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2021-06/VanHooftKammeyerMuellerWanbergKanferBasbug_JAP%202021.pdf",
+    "local_mirror": null,
+    "license": null
+  },
+  {
+    "number": 4,
+    "code": "CU08",
+    "source_fulltext": "https://pure.port.ac.uk/ws/portalfiles/portal/22964958/JHEPM_Employers_and_Graduates_signals_and_capitals_Post_Print.pdf",
+    "local_mirror": null,
+    "license": null
+  },
+  {
+    "number": 5,
+    "code": "CU21",
+    "source_fulltext": "https://cris.maastrichtuniversity.nl/ws/files/35844382/Velden_2015_Skills_and_the_Graduate.pdf",
+    "local_mirror": null,
+    "license": null
+  },
+  {
+    "number": 6,
+    "code": "MOI06",
+    "source_fulltext": "https://pure.uva.nl/ws/files/76019355/If_you_want_a_job_don_t_just_search_hard_search_systematically_A_field_study_with_career_starters.pdf",
+    "local_mirror": "MOI06.pdf",
+    "license": [
+      "CC BY-NC-ND 4.0",
+      "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ]
+  },
+  {
+    "number": 7,
+    "code": "MOI03",
+    "source_fulltext": "https://js.vnu.edu.vn/ER/article/view/4779/4060",
+    "local_mirror": null,
+    "license": null
+  },
+  {
+    "number": 8,
+    "code": "MOI02",
+    "source_fulltext": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11939495/",
+    "local_mirror": "MOI02.pdf",
+    "license": [
+      "CC BY 4.0",
+      "https://creativecommons.org/licenses/by/4.0/"
+    ]
+  },
+  {
+    "number": 9,
+    "code": "BS03",
+    "source_fulltext": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-6570.2004.00002.x",
+    "local_mirror": null,
+    "license": null
+  },
+  {
+    "number": 10,
+    "code": "MOI05",
+    "source_fulltext": "https://repositorio.iscte-iul.pt/handle/10071/22646",
+    "local_mirror": "MOI05.pdf",
+    "license": [
+      "CC BY 4.0",
+      "https://creativecommons.org/licenses/by/4.0/"
+    ]
+  },
+  {
+    "number": 11,
+    "code": "CU31",
+    "source_fulltext": "https://img1.wsimg.com/blobby/go/73f88299-6c05-431a-9747-386b1196518c/downloads/1cjt5surd_502851.pdf",
+    "local_mirror": null,
+    "license": null
+  },
+  {
+    "number": 12,
+    "code": "CU35",
+    "source_fulltext": "https://arxiv.org/html/2502.05099v1",
+    "local_mirror": null,
+    "license": null
+  },
+  {
+    "number": 13,
+    "code": "MOI10",
+    "source_fulltext": "https://journals.sagepub.com/doi/10.1177/10690727261459098",
+    "local_mirror": null,
+    "license": null
+  },
+  {
+    "number": 14,
+    "code": "MOI11",
+    "source_fulltext": "https://www.mdpi.com/1999-5903/9/1/6",
+    "local_mirror": "MOI11.pdf",
+    "license": [
+      "CC BY 4.0",
+      "https://creativecommons.org/licenses/by/4.0/"
+    ]
+  }
+]
